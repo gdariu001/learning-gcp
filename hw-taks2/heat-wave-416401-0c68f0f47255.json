@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "heat-wave-416401",
+  "private_key_id": "0c68f0f4725588881fc7ec6c2546c76ecbe27d8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXNo2pnQmintFR\n6WHsZR2AB96VbeLI9j/gKBLyRVy5tMi3nC5jCN+HlJv872SHRWi9DNRhsEjfsTmC\n+0qvNCTbJdp6QNWG9vV3BNayYkLWzDzQi399Kcof6P0C4jDwvhw9qc07dNprQ11R\na8zwZQY3tPSSM/EJnSan+XQvC3IrWq54UUVBzIuNhuysE8pUqH2pwZuJApl04KV0\n8zBorqxpCkurC0Uk4/g5rAdP7clRrh/isjy9eZz++0JCd02CdqPAhnMI6mWY1A49\nN8gSXQyagFtTtDgPA8lNPe9YjIbRPCIihkGxYtOHcrqYPrNJ8/RnKi0KN8WpUeZN\neMv3mKQZAgMBAAECggEAA/JDKHTuHFHBg/4fpX4ektmxugvh/i1qDZkyJGNByCFz\nFxKjBcfkoIrU9tkPEjYyJXPtI4cIodjj17qj8HZfi14dqXDheboefh6Q1Vs55BX0\ntNsdJsi1SxenKcD6NsA5Z7UTo3x5WlEJ4Y77DF+QldnZw6qKHP5+VKYunW8yqbWz\n/YEv5DYLLjyeD1PNY7lOs3uqAEQsNWWhFoTPeOSXYAGVLg6YckVlmFSZ07r4e0Ca\nTwDrGURHyN67WS95pfFTZplCgg95wycuL59Xdp9p9t0nY8mjBAZmY1ovV+eb3VAL\nqmsrqJ/2AYg5iINJ9Ck5E5aLQSXRKB79e5X+P6SFgQKBgQDOpswIiixBP9mCy7RK\n2Ax2ahb+Ov/B/UWTRSIe+YBMtr/PYL9bz5kYXv4EEiFnwH9gxls7QrXNOjP4nm5k\nzWuGPvBcsx8PlFhCB3YtrxD0R0tklzIvyh68PPj/KU/kn6K3hi5++c7z7m1BL/Nn\n0ekzO8dIKYPT65Y2+538pxBmmQKBgQC7UqUAo1rbe8BXKBtJ5jaFyuvuYfxCfjJu\nkfGWFy57vvHeb++ZWhsEamm8xRQZikjy/phvjm2EMqMlW2Tj7g4AT+0lAu7aqo5r\nO0V48N7bWNuuqHKSBUIWP9+naRMYj5IyqAq9yizvCLNLApRNvYCIIl57xwEX76pF\nBUMjotAZgQKBgQCAbuPh7tYgW2l4w9eyqGHeeoL90HdB/oHuTIovTAu0IeRGI6/q\nhLR2lBs1Nntyew3vfHgY9ZX+Dc1dGEIt/gl0rss+IckNKrpLl02YiPR1jZXK17lG\nQE0n2pE6LFfOFHTRsOBW5DT+H9HhMMcLYEeaIu3w6HRZElMSqwD+lGo6CQKBgEM4\njxnBhTNKH2WncNN+F4a/oRa0du/tlW90U/uGahniFa27AYJIgXV+Ml+ZYXMg2rjI\ngC9YLxjHiyA2wefBX6jhBbrIaKpzlhQI+w9BcNfJ9Vuh+ytHU8XkOgA7hqzDqLUg\n9GnTCXjl6GE8lbeoD13K55kHeu76BGIsV0GMhZ0BAoGBAKzbHtLXqRUH6ViHPCJI\nZRDxygUTDam4Uf4MG3fK3MtUaUZp9EhClcuMm1KDiyBBeMiwv9afrKzYo9K6KvGU\nLt6qeHGSOqHdrwLcodRy3cNE0o4O4Q1bQX7cXmEVgYHqiqjkqufptNJAOis1FxnH\nHypPgfx0cKuRGn0PZA/F6MTj\n-----END PRIVATE KEY-----\n",
+  "client_email": "learningterraform2@heat-wave-416401.iam.gserviceaccount.com",
+  "client_id": "113837287869842280114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learningterraform2%40heat-wave-416401.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
